@@ -6,12 +6,12 @@ print("-------------------------------")
 
 # input
 c = int(input("Dijite la capital:"))
-c1 = 0
+c1 = c
 i = 0
 
 #process
 while c1<=c*2:
-    c1 = c1 + c * 0.05
+    c1 = c1 + c1 * 0.05
     i = i + 1
 
 #output

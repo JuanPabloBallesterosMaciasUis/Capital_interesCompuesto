@@ -6,4 +6,4 @@ Segundo dia : 10.500 ,se suma el 5% de esta
 Tercer dia : 11.025 ,se suma el 5% de esta
 n dias : 20.000 
 
-![Diagrama de flujo](diagrama.png "Diagrama de flujo")
+![Diagrama de flujo](diagrama2.png "Diagrama de flujo")
